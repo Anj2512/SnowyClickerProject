@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/courgette</item>
+        <item>@font/mountains_of_christmas_bold</item>
+        <item>@font/rum_raisin</item>
+    </array>
+</resources>
